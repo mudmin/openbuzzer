@@ -1,0 +1,1 @@
+This optional shield makes creating buzzers easy, but obviously you can simply connect to any ESP8266 without the shield.
