@@ -1,0 +1,3 @@
+This is a very simple "receiver" for the buzzers I made in my Part 1 video on the project. If you don't want to connect to the cloud, you can connect to this receiver.  Note that all the buzzers and the receiver require wifi.
+
+The code itself is your guide on how to build this receiver.  It's a couple of LEDs and a couple of buttons and the code tells you what goes where.
